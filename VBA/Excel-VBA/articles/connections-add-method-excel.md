@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Connections.Add Method (Excel)
 
-Adds a new connction to the workbook.
+Adds a new connection to the workbook.
 
 
 ## Syntax
